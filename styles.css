@@ -2,4 +2,7 @@ body {
   margin: 0;
   font-family: Arial, sans-serif;
 }
-/* Space for module styles */
+header{
+  padding: 22px;
+  background-color: blue;
+}
